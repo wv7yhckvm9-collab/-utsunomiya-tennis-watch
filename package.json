@@ -1,0 +1,7 @@
+{
+  "name":"utsunomiya-tennis-watch",
+  "private":true,
+  "type":"module",
+  "scripts":{"start":"node monitor.js","once":"ONCE=1 node monitor.js"},
+  "dependencies":{"playwright":"^1.55.0"}
+}
